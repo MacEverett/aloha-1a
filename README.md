@@ -8,3 +8,5 @@ TECH USED
 4) CSS floats 
 
 For our first project I built a static one page html site for Aloha. Using floats to position all my items in CSS
+
+<img src="http://imgur.com/tsmIeac">
