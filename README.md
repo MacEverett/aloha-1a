@@ -9,4 +9,4 @@ TECH USED
 
 For our first project I built a static one page html site for Aloha. Using floats to position all my items in CSS
 
-<img src="http://imgur.com/tsmIeac">
+<img src="http://i.imgur.com/lWZDohx.png">
